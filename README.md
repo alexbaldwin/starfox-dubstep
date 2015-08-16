@@ -3,7 +3,7 @@ spaces that will totally break MS-DOS. Don't do it.
 
 `--restrict-filenames -x --audio-format wav`
 
-| Filename          | Looped  | Length  | Description   |     |
+| Filename          | Looped  | Length  | Description   | Replacement    |
 |------------------ |-------- |-------- |-------------  |---  |
 | A00000            |         | 3:18        |               |     |
 | A00001            | Y        | 1:53        | Menu selection screens              |     |
@@ -13,7 +13,7 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00005            |         | 2:49        |               |     |
 | A00006            |         | 2:55        |               |     |
 | A00007            |         | 2:40        |               |     |
-| A00008            |         | 1:10        | Mission briefing interlude               |     |
+| A00008            |         | 1:10        | Mission briefing interlude               | https://soundcloud.com/best-of-chillstep/strobe-mr-fijiwiji-remix?in=alexbaldwin/sets/starfox-dubstep    |
 | A00009            |         | 2:44        |               |     |
 | A00010            |         | 2:02        |               |     |
 | A00011            |         | 1:23        | Mission I: Act II Music              |     |
