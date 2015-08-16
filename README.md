@@ -5,15 +5,15 @@ spaces that will totally break MS-DOS. Don't do it.
 
 | Filename          | Looped  | Length  | Description   | Replacement    |
 |------------------ |-------- |-------- |-------------  |---  |
-| A00000            | Y       | 3:18        | Victory music              |     |
-| A00001            | Y        | 1:53        | Menu selection screens              |     |
+| A00000            | Y       | 3:18        | Victory music              | [SPACE LACES — SPACE LACES - Dungeons and Dragons](http://soundcloud.com/space-laces/space-laces-dungeons-and-dragons)    |
+| A00001            | Y        | 1:53        | Menu selection screens              | [Galimatias — Galimatias - Ocean Floor Kisses](http://soundcloud.com/galimatias/galimatias-ocean-floor-kisses)     |
 | A00002            |         | 0:07       |               |     |
 | A00003            |         | 3:11       |               |     |
 | A00004            |         | 4:09        |               |     |
 | A00005            |         | 2:49        |               |     |
 | A00006            |         | 2:55        |               |     |
 | A00007            |         | 2:40        |               |     |
-| A00008            |         | 1:10        | Mission briefing interlude               | [Best of Chillstep — Strobe (Mr FijiWiji remix)](http://soundcloud.com/best-of-chillstep/strobe-mr-fijiwiji-remix)  |
+| A00008            | Y       | 1:10        | Mission briefing interlude               | [Best of Chillstep — Strobe (Mr FijiWiji remix)](http://soundcloud.com/best-of-chillstep/strobe-mr-fijiwiji-remix)  |
 | A00009            |         | 2:44        |               |     |
 | A00010            |         | 2:02        |               |     |
 | A00011            | Y       | 1:23        | Mission 1: Act II Music              | [Excision — Excision - Live Wire](http://soundcloud.com/excision/live-wire)    |
@@ -79,5 +79,5 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00071            |         | 0:13        |               |     |
 | A00072            |         | 0:12        |               |     |
 | A00073            |         | 0:41        |               |     |
-| A00074            |         | 0:15        | Intro screen music              |     |
+| A00074            | Y       | 0:15        | Intro screen music              | [mrbuttercup37 — Star Fox : Corneria 8bit Remix](http://soundcloud.com/mrbuttercup37/star-fox-corneria-8bit-remix)    |
 | A00075            |         | 0:07        |               |     |
