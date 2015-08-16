@@ -5,7 +5,7 @@ spaces that will totally break MS-DOS. Don't do it.
 
 | Filename          | Looped  | Length  | Description   | Replacement    |
 |------------------ |-------- |-------- |-------------  |---  |
-| A00000            |         | 3:18        |               |     |
+| A00000            | Y       | 3:18        | Victory music              |     |
 | A00001            | Y        | 1:53        | Menu selection screens              |     |
 | A00002            |         | 0:07       |               |     |
 | A00003            |         | 3:11       |               |     |
@@ -16,7 +16,7 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00008            |         | 1:10        | Mission briefing interlude               | [Best of Chillstep — Strobe (Mr FijiWiji remix)](http://soundcloud.com/best-of-chillstep/strobe-mr-fijiwiji-remix)  |
 | A00009            |         | 2:44        |               |     |
 | A00010            |         | 2:02        |               |     |
-| A00011            |         | 1:23        | Mission 1: Act II Music              |     |
+| A00011            | Y       | 1:23        | Mission 1: Act II Music              |     |
 | A00012            |         | 3:18        |               |     |
 | A00013            |         | 2:55        |               |     |
 | A00014            |         | 0:45        |               |     |
@@ -25,7 +25,7 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00017            | Y      | 2:20      | Mission 1: Act I Arwing section             | [Excision — Excision - Codename X](http://soundcloud.com/excision/codename-x)     |
 | A00018            |         | 1:13        | Annoying strings              |     |
 | A00019            |         | 2:28        |               |     |
-| A00020            |         | 0:58        | Mission 1: Act III Oinkanney boss music              |     |
+| A00020            | Y       | 0:58        | Mission 1: Act III Oinkanney boss music              |     |
 | A00021            |         | 2:31        |               |     |
 | A00022            |         | 0:16        | First cutsecene after Mission 1: Act I              |     |
 | A00023            |         | 0:34        |               |     |
@@ -34,7 +34,7 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00026            |         | 2:12        |               |     |
 | A00027            |         | 2:34        |               |     |
 | A00028            |         | 4:16        |               |     |
-| A00029            |         | 2:00        | Mission 1: Act III Aparoid Boss              |     |
+| A00029            | Y       | 2:00        | Mission 1: Act III Aparoid Boss              |     |
 | A00030            |         | 2:19        |               |     |
 | A00031            |         | 2:02        |               |     |
 | A00032            |         | 2:07        |               |     |
