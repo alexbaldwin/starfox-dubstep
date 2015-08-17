@@ -14,7 +14,7 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00006            |         | 2:55        |               |     |
 | A00007            |         | 2:40        |               |     |
 | A00008            | Y       | 1:10        | Mission briefing interlude               | [Best of Chillstep — Strobe (Mr FijiWiji remix)](http://soundcloud.com/best-of-chillstep/strobe-mr-fijiwiji-remix)  |
-| A00009            |         | 2:44        |               |     |
+| A00009            | Y       | 2:44        | Mission 2: Act I music              | [Dubstep — King Kong by Bare & Datsik (Terravita Remix)](http://soundcloud.com/dubstep/king-kong-by-bare-datsik-terravita-remix)    |
 | A00010            |         | 2:02        |               |     |
 | A00011            |         | 1:23        |               |     |
 | A00012            |         | 3:18        |               |     |
@@ -24,9 +24,9 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00016            |         | 0:29        |               |     |
 | A00017            | Y      | 2:20      | Mission 1: Act I Arwing section             | [Excision — Excision - Codename X](http://soundcloud.com/excision/codename-x)     |
 | A00018            |         | 1:13        | Annoying strings              |     |
-| A00019            | Y       | 2:28        | Mission 1: Act II Music              | [Excision — Excision - Live Wire](http://soundcloud.com/excision/live-wire)    |
+| A00019            | Y       | 2:28        | Mission 1: Act II music              | [Excision — Excision - Live Wire](http://soundcloud.com/excision/live-wire)    |
 | A00020            | Y       | 0:58        | Mission 1: Act III Oinkanney boss music              | [Downlink — Excision & Downlink - Reploid](http://soundcloud.com/downlink/excision-downlink-reploid)    |
-| A00021            |         | 2:31        |               |     |
+| A00021            | Y       | 2:31        | Mission 2: Act II aparoid spider boss music              | [UPLINK AUDIO — Dieselboy, Downlink, Mark The Beast, Mayhem - Carcosa](http://soundcloud.com/uplinkaudio/carcosa)    |
 | A00022            |         | 0:16        | First cutsecene after Mission 1: Act I              |     |
 | A00023            |         | 0:34        |               |     |
 | A00024            |         | 0:41        |               |     |
