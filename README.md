@@ -5,8 +5,8 @@ spaces that will totally break MS-DOS. Don't do it.
 
 | Filename          | Looped  | Length  | Description   | Replacement    |
 |------------------ |-------- |-------- |-------------  |---  |
-| A00000            | Y       | 3:18        | Victory music              | [SPACE LACES — SPACE LACES - Dungeons and Dragons](http://soundcloud.com/space-laces/space-laces-dungeons-and-dragons)    |
-| A00001            | Y        | 1:53        | Menu selection screens              | [Galimatias — Galimatias - Ocean Floor Kisses](http://soundcloud.com/galimatias/galimatias-ocean-floor-kisses)     |
+| A00000            | Y       | 3:18        |               |    |
+| A00001            | Y        | 1:53        | Menu selection screens              | [Seven Lions — Seven Lions ft. Ciscandra Nostalghia - Serpent Of Old](http://soundcloud.com/seven-lions/seven-lions-ft-nostalghia)     |
 | A00002            |         | 0:07       |               |     |
 | A00003            |         | 3:11       |               |     |
 | A00004            |         | 4:09        |               |     |
@@ -16,7 +16,7 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00008            | Y       | 1:10        | Mission briefing interlude               | [Best of Chillstep — Strobe (Mr FijiWiji remix)](http://soundcloud.com/best-of-chillstep/strobe-mr-fijiwiji-remix)  |
 | A00009            |         | 2:44        |               |     |
 | A00010            |         | 2:02        |               |     |
-| A00011            | Y       | 1:23        | Mission 1: Act II Music              | [Excision — Excision - Live Wire](http://soundcloud.com/excision/live-wire)    |
+| A00011            |         | 1:23        |               |     |
 | A00012            |         | 3:18        |               |     |
 | A00013            |         | 2:55        |               |     |
 | A00014            |         | 0:45        |               |     |
@@ -24,7 +24,7 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00016            |         | 0:29        |               |     |
 | A00017            | Y      | 2:20      | Mission 1: Act I Arwing section             | [Excision — Excision - Codename X](http://soundcloud.com/excision/codename-x)     |
 | A00018            |         | 1:13        | Annoying strings              |     |
-| A00019            |         | 2:28        |               |     |
+| A00019            | Y       | 2:28        | Mission 1: Act II Music              | [Excision — Excision - Live Wire](http://soundcloud.com/excision/live-wire)    |
 | A00020            | Y       | 0:58        | Mission 1: Act III Oinkanney boss music              | [Downlink — Excision & Downlink - Reploid](http://soundcloud.com/downlink/excision-downlink-reploid)    |
 | A00021            |         | 2:31        |               |     |
 | A00022            |         | 0:16        | First cutsecene after Mission 1: Act I              |     |
@@ -71,7 +71,7 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00063            |         | 3:22        |               |     |
 | A00064            |         | 3:30        |               |     |
 | A00065            |         | 3:26        |               |     |
-| A00066            |         | 2:16        | Mission Result Menu music              |     |
+| A00066            |         | 2:16        | Result menu music after missions             | [SPACE LACES — SPACE LACES - Dungeons and Dragons](http://soundcloud.com/space-laces/space-laces-dungeons-and-dragons)    |
 | A00067            |         | 3:16        | Starwolf theme song              |     |
 | A00068            |         | 2:45        |               |     |
 | A00069            |         | 0:20        |               |     |
