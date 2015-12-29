@@ -5,7 +5,7 @@ spaces that will totally break MS-DOS. Don't do it.
 
 | Filename          | Looped  | Length  | Description   | Replacement    |
 |------------------ |-------- |-------- |-------------  |---  |
-| A00000            | Y       | 3:18        | Funky chipper menu music              |    |
+| A00000            | Y       | 3:18        | Funky chipper menu music              | [mrbuttercup37 — Star Fox : Corneria 8bit Remix](http://soundcloud.com/mrbuttercup37/star-fox-corneria-8bit-remix)   |
 | A00001            | Y        | 1:53        | Menu selection screens              | [Seven Lions — Seven Lions ft. Ciscandra Nostalghia - Serpent Of Old](http://soundcloud.com/seven-lions/seven-lions-ft-nostalghia)     |
 | A00002            | N        | 0:07       | Winner's fanfare              |     |
 | A00003            | Y        | 3:11       | Syncopated star road theme              |     |
@@ -72,12 +72,12 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00064            | Y        | 3:30        | Lounge music              | [Bassnectar — Bassnectar - Into The Sun](https://soundcloud.com/bassnectar/bassnectar-into-the-sun?in=alexbaldwin/sets/starfox-dubstep)    |
 | A00065            | Y        | 3:26        | Trance              | [SamBlackmore — Above & Beyond - Love Is Not Enough (Chillstep Remix)](https://soundcloud.com/samblackmore/above-beyond-love-is-not?in=alexbaldwin/sets/starfox-dubstep)    |
 | A00066            | Y        | 2:16        | Result menu music after missions             | [SPACE LACES — SPACE LACES - Dungeons and Dragons](http://soundcloud.com/space-laces/space-laces-dungeons-and-dragons)    |
-| A00067            | Y        | 3:16        | Starwolf theme song              | [ajapai — Bass Godzilla VIP](https://soundcloud.com/ajapai/bass-godzilla-vip?in=alexbaldwin/sets/starfox-dubstep)    |
+| A00067            | Y        | 3:16        | Starwolf theme song              | 💾[ajapai — Bass Godzilla VIP](https://soundcloud.com/ajapai/bass-godzilla-vip?in=alexbaldwin/sets/starfox-dubstep)    |
 | A00068            | Y        | 2:45        | Hopeful victory symphony              |     |
 | A00069            | N        | 0:20        |               |     |
 | A00070            | N        | 0:12        | Mission 1: Act III cutscene after Aparoid is destroyed              |     |
 | A00071            | N        | 0:13        |               |     |
 | A00072            | N        | 0:12        |               |     |
 | A00073            | N        | 0:41        |               |     |
-| A00074            | N       | 0:15        | Intro screen music              | [mrbuttercup37 — Star Fox : Corneria 8bit Remix](http://soundcloud.com/mrbuttercup37/star-fox-corneria-8bit-remix)    |
+| A00074            | N       | 0:15        | Intro screen music              |    |
 | A00075            | N        | 0:07        |               |     |
