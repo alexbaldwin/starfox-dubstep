@@ -10,7 +10,7 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00002            | N        | 0:07       | Winner's fanfare              |     |
 | A00003            | Y        | 3:11       | Syncopated star road theme              | [VideoGameRemixes — Undertale - Core (Remix)](https://soundcloud.com/videogameremixes/undertale-core-remix?in=alexbaldwin/sets/starfox-dubstep)    |
 | A00004            | Y        | 4:09        | Creepy sneaking drum and bass              | [Bassnectar — Bassnectar & Craz - Thursty](https://soundcloud.com/bassnectar/bassnectar-craz-thursty?in=alexbaldwin/sets/starfox-dubstep)     |
-| A00005            | Y        | 2:49        | Tropical beach main theme mix              |     |
+| A00005            | Y        | 2:49        | Tropical beach main theme mix              | [Sex Whales — Sex Whales - Not Easy](https://soundcloud.com/sex-whales/not-easy?in=alexbaldwin/sets/starfox-dubstep)    |
 | A00006            | Y        | 2:55        | Heavy guitar buckethead theme song              | [Downlink — Downlink - Activation (Destroid 5)](https://soundcloud.com/downlink/downlink-activation-destroid-5?in=alexbaldwin/sets/starfox-dubstep)     |
 | A00007            | Y        | 2:40        | Mission briefing classical with dope flute              | [Datsik — Datsik & Terravita - Losing Control](https://soundcloud.com/datsik/datsik-terravita-losing?in=alexbaldwin/sets/starfox-dubstep)    |
 | A00008            | Y       | 1:10        | Mission briefing interlude               | [Best of Chillstep — Strobe (Mr FijiWiji remix)](http://soundcloud.com/best-of-chillstep/strobe-mr-fijiwiji-remix)  |
@@ -29,11 +29,11 @@ spaces that will totally break MS-DOS. Don't do it.
 | A00021            | Y       | 2:31        | Mission 2: Act II aparoid spider boss music              | [UPLINK AUDIO — Dieselboy, Downlink, Mark The Beast, Mayhem - Carcosa](http://soundcloud.com/uplinkaudio/carcosa)    |
 | A00022            | N        | 0:16        | First cutsecene after Mission 1: Act I              |     |
 | A00023            | N        | 0:34        |               |     |
-| A00024            |         | 0:41        | Low-quality, mono fanfare              |     |
-| A00025            | Y        | 4:34        | Corneria orchestra              |     |
+| A00024            | N       | 0:41        | Low-quality, mono fanfare              |     |
+| A00025            | Y        | 4:34        | Corneria orchestra              | [LUZCID — LUZCID - Invasion](https://soundcloud.com/luzcid/luzcid-invasion?in=alexbaldwin/sets/starfox-dubstep)    |
 | A00026            | Y        | 2:12        | Home alone chase scene strings              | [Downlink — Party Alarm](https://soundcloud.com/downlink/party-alarm?in=alexbaldwin/sets/starfox-dubstep)    |
 | A00027            | Y        | 2:34        | Boss battle for the lava level theme              | [Downlink — Figure - Freddy Krueger (Downlink Remix)](https://soundcloud.com/downlink/figure-freddy-krueger-downlink-remix?in=alexbaldwin/sets/starfox-dubstep)     |
-| A00028            | Y        | 4:16        | Wes Anderson strings for a mild ride              |     |
+| A00028            | Y        | 4:16        | Wes Anderson strings for a mild ride              | [https://soundcloud.com/detracemusic/detrace-x-charlie-zane-descent-1?in=alexbaldwin/sets/starfox-dubstep](https://soundcloud.com/detracemusic/detrace-x-charlie-zane-descent-1?in=alexbaldwin/sets/starfox-dubstep)    |
 | A00029            | Y       | 2:00        | Mission 1: Act III Aparoid Boss              | [Excision — Excision & Downlink - Crowd Control](http://soundcloud.com/excision/excision-downlink-crowd)    |
 | A00030            | Y        | 2:19        | Boss-theme piano sonata remix              | [ShadowBeatzInc — ShadowBeatz - Death Keeps Marching - Dubstep/Chillstep](https://soundcloud.com/shadowbeatzinc-1/shadowbeatz-death-keeps-1?in=alexbaldwin/sets/starfox-dubstep)    |
 | A00031            | Y        | 2:02        | Mission 10: Act II boss battle: the I've got a bad feeling about this mixtape              | [Stephen Walking — Stephen Walking - The Elder Scrolls Dubstep (Re-Orchestration) [Free Download]](https://soundcloud.com/stephenwalking/stephen-walking-the-elder?in=alexbaldwin/sets/starfox-dubstep)    |
